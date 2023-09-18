@@ -5,7 +5,7 @@
 
 This repository contains projects for Udacity Programming For Data Science Using Python Nanodegree.
 
-## Projcet: Investigate a Relational Database using SQl
+## Project: Investigate a Relational Database using SQl
 
 ### Overview
 
