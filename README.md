@@ -5,7 +5,7 @@
 
 This repository contains projects for Udacity Programming For Data Science Using Python Nanodegree.
 
-## Sql Project
+## Projcet: Investigate a Relational Database using SQl
 
 ### Overview
 
@@ -21,7 +21,9 @@ Questions for the project can be found in the slides file
 <br/><br/>
 
 
-## Python project
+## Project: Explore US bike data using python
+
+<img src="images/bike-rentals.jpg" width="1000">
 
 ### Overview
 
