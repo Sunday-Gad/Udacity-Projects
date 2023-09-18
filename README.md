@@ -1,5 +1,5 @@
 # Udacity-programming-for-Data-Science-using-Python-Nanodegree
-<img src="Images/Programming.jpg" width="1000">
+<img src="images/Programming.jpg" width="1000">
 
 # Created by Sunday Gad
 
@@ -58,4 +58,4 @@ The Project Submission consisted in the filling of a template with all the Git c
 <br/><br/>
 
 # My Certificate of Completion
-<img src="Images/certificate.png" width="1000">
+<img src="images/certificate.png" width="1000">
