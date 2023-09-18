@@ -39,23 +39,39 @@ The developed CLI program allows the user to explore an US bikeshare system data
 
 The required files for running this program are: 
 
-* washington.csv
-* new_york_city.csv
-* chicago.csv
+* [bikeshare.py](https://github.com/Sunday-Gad/Udacity-Projects/blob/main/Explore%20US%20bike%20data%20using%20python/bikeshare_2.py) : This is the main Python script that imports the data, answers interesting questions about it, and creates an interactive experience in the terminal to present these statistics.
+
+* chicago.csv : This file contains bike share data for Chicago.
+
+* new_york_city.csv : This file contains bike share data for New York City.
+
+* washington.csv: This file contains bike share data for Washington.
 
 #### Requirements
+
 This program was written in Python (version 3.7.1) and relies on the following libraries:
 
-* pandas==0.23.4
-* numpy==1.15.4
+* pandas library
+* numpy library
 
-## Project 3
+#### Usage
 
-This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
+To run the project, you will need to have Python installed. Once you have Python installed, you can run the project by opening a terminal window and navigating to the directory where the project files are located. Then, you can run the following command:
 
-### Project Submission
+`python bikeshare.py`
 
-The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
+This will start the interactive experience in the terminal. You can then enter your questions about the data and the script will answer them.
+
+To use the project, you will need to have some basic knowledge of Python. The project is designed to be interactive, so you can get specific information according to month, day of week, month and day, or none from the data. For example, you could ask the following questions:
+
+* What is the most popular start station used on specific day of week?
+* What is the average trip duration in a specific moth?
+* What is the most popular day of the week for bike rides?
+The script will also print out some descriptive statistics about the data.
+
+### Credits
+
+This project was inspired by the Udacity Data Science Nanodegree program. The data for this project was provided by Motivate.
 
 <br/><br/>
 
